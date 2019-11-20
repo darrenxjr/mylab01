@@ -18,16 +18,7 @@
   <h3 align="center">ICT 3104-Team 10-2019:Performance Requirement & Testing</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs �</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    �
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    �
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+
   </p>
 </p>
 
@@ -60,7 +51,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+The app be part of a collaborative project between SIT and an industry partner. The main objective is to create a simple Single Page Application (SPA) with the corresponding backend services. 
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
@@ -112,7 +103,20 @@ const API_KEY = 'ENTER YOUR API';
 <!-- System Architecture for Understanding -->
 ## System Architecture 
 
+<p align="center">
+  <a href="https://github.com/sgtech-ict3104/ict3104-team10-2019">
+    <img src="images/systemarchitecture.jpg" alt="Logo" width="200" height="200">
+  </a>
+
+  <h3 align="center">ICT 3104-Team 10-2019:Performance Requirement & Testing</h3>
+
+  <p align="center">
+
+  </p>
+</p>
+
 ### Frontend
+
 ### YOLO
 ### Backend
 
