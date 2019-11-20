@@ -105,7 +105,7 @@ const API_KEY = 'ENTER YOUR API';
 
 <p align="center">
   <a href="https://github.com/sgtech-ict3104/ict3104-team10-2019">
-    <img src="images/systemarchitecture.jpg" alt="Logo" width="200" height="200">
+    <img src="images/systemarchitecture.jpg" alt="Logo" width="800" height="400">
   </a>
 
   <h3 align="center">ICT 3104-Team 10-2019:Performance Requirement & Testing</h3>
