@@ -20,13 +20,13 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs ï¿½</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
+    ï¿½
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
+    ï¿½
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </p>
@@ -41,6 +41,11 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+
+* [System Architecture](#systemarchitecture)
+  * [Frontend](#frontend)
+  * [YOLO](#YOLO)
+  * [Backend](#backend)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -104,7 +109,12 @@ npm install
 const API_KEY = 'ENTER YOUR API';
 ```
 
+<!-- System Architecture for Understanding -->
+## System Architecture 
 
+### Frontend
+### YOLO
+### Backend
 
 <!-- USAGE EXAMPLES -->
 ## Usage
